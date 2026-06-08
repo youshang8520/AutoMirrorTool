@@ -1,0 +1,12 @@
+Copyright (c) guolei.
+
+Non-commercial license.
+
+Permission is granted to use this software for personal learning, testing,
+and non-commercial purposes only.
+
+Commercial distribution, commercial deployment, resale, hosted service use,
+or integration into a commercial product is not permitted without prior
+written permission from guolei.
+
+The software is provided "as is", without warranty of any kind.
